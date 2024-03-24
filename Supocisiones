@@ -1,0 +1,8 @@
+1. Suponemos que los clientes no tendrán la posibilidad de cancelar sus reservaciones.
+2. se piensa que las habitaciones son de 4 tipos nada más individual, doble, familiar y suite.
+3. suponemos que hay algunos valores del hotel que ya se encuentran fijos como la lavandería por usos, daños, etc.
+4. se piensa que la facturación se realiza al final de la estadía del cliente.
+5. Se piensa que el hotel contiene un total de 399 habitaciones.
+6. se piensa que el hotel solo recibirá el tipo de moneda del país o lugar en el cual se encuentre ubicado.
+7. en el tipo de documento que puede darnos el cliente solo se aceptara cédula, cédula de extranjería y pasaporte.
+8. suponemos que después de realizar los registros del momento tendremos una carta de reservaciones con el nombre, habitación y tipo de habitación del cliente.
